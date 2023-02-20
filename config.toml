@@ -1,0 +1,10 @@
+title = "septum.me"
+description = "A website that contains my journey in software engineering"
+base_url = "https://septum.me"
+default_language = "en"
+compile_sass = true
+
+[markdown]
+highlight_code = true
+highlight_theme = "solarized-dark"
+external_links_target_blank = true
